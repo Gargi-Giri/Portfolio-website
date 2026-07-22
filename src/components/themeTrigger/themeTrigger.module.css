@@ -1,0 +1,41 @@
+.trigger {
+  width: 72px;
+  height: 38px;
+
+  border: none;
+  cursor: pointer;
+
+  border-radius: 999px;
+
+  background: var(--switch-bg);
+
+  padding: 4px;
+
+  display: flex;
+  align-items: center;
+
+  transition: all 0.3s ease;
+}
+
+.slider {
+  width: 30px;
+  height: 30px;
+
+  border-radius: 50%;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: var(--slider-bg);
+
+  color: var(--slider-icon);
+
+  font-size: 18px;
+
+  transition: all 0.3s ease;
+}
+
+.dark {
+  transform: translateX(34px);
+}
