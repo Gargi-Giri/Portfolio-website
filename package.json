@@ -1,5 +1,5 @@
 {
-  "name": "gargi-portfolio",
+  "name": "Portfolio-website",
   "type": "module",
   "scripts": {
     "dev": "vite",
