@@ -1,0 +1,27 @@
+.container {
+  width: 100%;
+}
+
+.header {
+  margin-bottom: 2rem;
+}
+
+.header h2 {
+  font-size: 2rem;
+
+  color: var(--text-primary);
+
+  margin-bottom: 0.75rem;
+}
+
+.header p {
+  color: var(--text-secondary);
+
+  line-height: 1.7;
+}
+
+@media (max-width: 768px) {
+  .header h2 {
+    font-size: 1.75rem;
+  }
+}
