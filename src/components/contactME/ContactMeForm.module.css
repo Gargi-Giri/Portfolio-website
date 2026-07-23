@@ -4,7 +4,7 @@
 
   gap: 1rem;
 
-  width: 100%;
+  width: inherit;
 }
 
 .form input,

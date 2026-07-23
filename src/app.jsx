@@ -11,6 +11,11 @@ function App() {
       <Body />
       <Footer />
     </div>
+    // <div>
+    //   <Navbar />
+    //   <Body />
+    //   <Footer />
+    // </div>
   );
 }
 

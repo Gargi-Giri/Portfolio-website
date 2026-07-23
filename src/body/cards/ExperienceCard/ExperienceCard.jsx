@@ -4,7 +4,7 @@ function ExperienceCard() {
   return (
     <Card
       layout="horizontal"
-      width="100%"
+      width="inherit"
       borderRadius="36px"
       image="/PLACEHOLDER_COMPANY_LOGO.png"
       imageWidth="120px"

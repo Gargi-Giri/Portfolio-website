@@ -3,7 +3,7 @@ import Card from "../../../components/card/card";
 function ProjectsCard() {
   return (
     <Card
-      width="380px"
+      width="inherit"
       borderRadius="36px"
       image="/PLACEHOLDER_PROJECT_IMAGE.png"
       imageWidth="100%"

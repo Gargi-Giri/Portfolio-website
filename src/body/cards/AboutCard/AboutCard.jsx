@@ -3,7 +3,7 @@ import Card from "../../../components/card/card";
 function AboutCard() {
   return (
     <Card
-      width="100%"
+      width="inherit"
       borderRadius="40px"
       title="About Me"
       description="WRITE_YOUR_ABOUT_DESCRIPTION_HERE"

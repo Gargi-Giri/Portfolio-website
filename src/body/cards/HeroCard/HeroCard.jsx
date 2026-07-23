@@ -4,7 +4,7 @@ function HeroCard() {
   return (
     <Card
       layout="horizontal"
-      width="100%"
+      width="80%"
       height="600px"
       borderRadius="48px"
       image="/PLACEHOLDER_PROFILE_IMAGE.jpg"

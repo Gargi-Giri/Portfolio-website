@@ -3,7 +3,7 @@ import Card from "../../../components/card/card";
 function SkillsCard() {
   return (
     <Card
-      width="100%"
+      width="inherit"
       borderRadius="36px"
       title="Skills"
       description="TECHNOLOGIES_AND_TOOLS"

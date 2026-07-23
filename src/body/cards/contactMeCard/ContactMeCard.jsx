@@ -6,7 +6,7 @@ import styles from "./ContactMeCard.module.css";
 function ContactMeCard() {
   return (
     <Card
-      width="100%"
+      width="inherit"
       borderRadius="36px"
     >
       <div className={styles.container}>
